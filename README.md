@@ -9,11 +9,6 @@ Hey, I'm Mahek
 🌱 I’m currently learning ReactJS
 
 👀 Occasional open source contributor
-  
----
 
-📫 How to reach me:
-<ul>
-  <li>LinkedIn : <a href="https://www.linkedin.com/in/mahekgoswami07/"> mahekgoswami07 </a> , </li>
-  <li>Or mail me at goswamimahek07@gmail.com</li>
-</ul>
+📫 Feel free to reach out to me on LinkedIn : <a href="https://www.linkedin.com/in/mahekgoswami07/"> mahekgoswami07 </a>
+  
